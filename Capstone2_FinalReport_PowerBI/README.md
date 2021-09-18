@@ -10,5 +10,5 @@ This folder includes Capstone 2 PowerBI Results/Visualizations
 Instructions: 
 - Open using PowerBI.
 - All visualization will be displayed.
-- All data came from Excel file. 
+- All data came from Excel files. 
 --------------------------------------------------------------
