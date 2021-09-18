@@ -11,10 +11,10 @@ Sunway University Business/Data Analytics Capstone Project 2021 (Individual)
 
 ## Contents
 
-- PowerBI: Data Visualization & Dashboarding 
-- Python: Data Exploration, Preprocessing (Cleaning), Analysis, and Visualization - Text & Sentiment Analysis and Supervised Machine Learning (Classification)
-- R: Data Exploration, Preprocessing (Cleaning), Analysis, and Visualization - Text & Sentiment Analysis
-- SAS (E-Miner): Text Parsing, Text Filtering, Concept Link, Text Cluster, and Text Topic - Text Analysis and Unsupervised Machine Learning 
+- **PowerBI:** Data Visualization & Dashboarding 
+- **Python:** Data Exploration, Preprocessing (Cleaning), Analysis, and Visualization - Text & Sentiment Analysis and Supervised Machine Learning (Classification)
+- **R:** Data Exploration, Preprocessing (Cleaning), Analysis, and Visualization - Text & Sentiment Analysis
+- **SAS (E-Miner):** Text Parsing, Text Filtering, Concept Link, Text Cluster, and Text Topic - Text Analysis and Unsupervised Machine Learning 
 
 
 
