@@ -1,6 +1,6 @@
 # bachelordegree-capstone
 
-Sunway University business/data analytics individual capstone project 2021
+Sunway University Business/Data Analytics Capstone Project 2021 (Individual)
 
 **An Opinion Analysis: What Do Customers Say About Hotel Ratings and Reviews in Malaysia?**
 
@@ -11,9 +11,10 @@ Sunway University business/data analytics individual capstone project 2021
 
 ## Contents
 
-- das
-- das
-- das
+- PowerBI: Data Visualization & Dashboarding 
+- Python: Data Exploration, Preprocessing (Cleaning), Analysis, and Visualization - Text & Sentiment Analysis and Supervised Machine Learning (Classification)
+- R: Data Exploration, Preprocessing (Cleaning), Analysis, and Visualization - Text & Sentiment Analysis
+- SAS (E-Miner): Text Parsing, Text Filtering, Concept Link, Text Cluster, and Text Topic - Text Analysis and Unsupervised Machine Learning 
 
 
 
