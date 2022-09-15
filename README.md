@@ -9,7 +9,7 @@ Sunway University Business/Data Analytics Capstone Project 2021 (Individual)
 **Keywords:** Opinion Mining, Text Analysis, Machine Learning, Hotel Reviews, Customer Satisfaction.
   
 
-## Contents
+## Content
 
 - **PowerBI:** Data Visualization & Dashboarding 
 - **Python:** Data Exploration, Preprocessing (Cleaning), Analysis, and Visualization - Text & Sentiment Analysis and Supervised Machine Learning (Classification)
